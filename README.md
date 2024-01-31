@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristopher Martins</h1>
-<h3 align="center">A passionate frontend developer from Brazil currently living in portugal</h3>
+<h3 align="center">A passionate frontend developer from Brazil currently living in Portugal</h3>
 
 - 🔭 I’m currently working on [HumanIt](https://humanit.pt/)
 
